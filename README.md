@@ -1,3 +1,3 @@
 # problemSolving
 
-Let re-wire the neurons
+Lets re-wire the neurons
